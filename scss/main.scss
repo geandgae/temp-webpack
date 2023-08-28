@@ -1,0 +1,13 @@
+$color--black: #000;
+$color--white: #fff;
+$color--blue: #001aff;
+
+body {
+  background-color: $color--white;
+  h1 {
+    width: 100%;
+    display: flex;
+    color: $color--blue;
+    font-size: 30px;
+  }
+}
